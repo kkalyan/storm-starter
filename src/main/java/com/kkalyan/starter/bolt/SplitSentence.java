@@ -1,6 +1,3 @@
-/*
- * Copyright@Yahoo!
- */
 package com.kkalyan.starter.bolt;
 
 import backtype.storm.topology.BasicOutputCollector;

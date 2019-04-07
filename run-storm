@@ -1,2 +1,2 @@
 mvn package
-storm jar target/stormstarter-1.0-jar-with-dependencies.jar com.yahoo.starter.WordCountTopology starter
+storm jar target/stormstarter-1.0-jar-with-dependencies.jar com.kkalyan.starter.WordCountTopology starter
